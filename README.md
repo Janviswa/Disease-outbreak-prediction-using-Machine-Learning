@@ -83,24 +83,11 @@ Follow the instructions below to set up the project and run the models on your s
 
 ## Dataset
 
-The project uses datasets related to:
+Supported datasets:
 
-- Heart Disease
-- Diabetes
-- Parkinson's Disease
-
-Suggested sources for datasets include:
-
-- [World Health Organization (WHO)](https://www.who.int/data)
-- [Kaggle Datasets](https://www.kaggle.com/)
-- [CDC Data](https://data.cdc.gov/)
-
-Ensure the dataset includes features like:
-
-- Temporal data (date, time)
-- Geographic data (latitude, longitude, region)
-- Environmental data (temperature, humidity, rainfall)
-- Health data (cases, deaths, recovery rates)
+- **Heart Disease**: [Heart Disease Dataset on Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)
+- **Diabetes**: [Diabetes Dataset on Kaggle](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
+- **Parkinson's Disease**: [Parkinson's Dataset on Kaggle](https://www.kaggle.com/datasets/nidaguler/parkinsons-data)
 
 ## Models
 
