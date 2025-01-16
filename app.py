@@ -4,20 +4,17 @@ import os
 import numpy as np
 import time
 
-# Set page configuration (must be the first Streamlit command)
+# Set page configuration
 st.set_page_config(page_title="Disease Prediction Model", layout="wide", page_icon="Images/Icon.png")
 
-# Add the logo image at the top-right corner
 def add_logo():
-    logo = "Images/logo.png"  # Replace with your logo image file
-    # Create a single row with the title on the left and the logo on the right
-    col1, col2 = st.columns([5, 1.5])  # col1 takes more space for title, col2 takes less for logo
+    logo = "Images/logo.png" 
+    col1, col2 = st.columns([5, 1.5]) 
     with col1:
-        st.title("Disease Prediction Model🩺")  # Title on the left side
+        st.title("Disease Prediction Model🩺")  
     with col2:
-        st.image(logo, width=200)  # Logo on the right side
+        st.image(logo, width=200)  
 
-# Call the function to add the logo and title
 add_logo()
 
 # Load the saved models and scalers
