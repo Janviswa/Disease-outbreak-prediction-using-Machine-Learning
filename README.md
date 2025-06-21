@@ -1,43 +1,61 @@
-# Disease Outbreak Prediction using Machine Learning
+# 🩺 Disease Outbreak Prediction using Machine Learning
 
 This repository contains code and documentation for predicting disease outbreaks using machine learning techniques. By leveraging historical data, environmental factors, and socio-economic indicators, the project aims to develop predictive models to identify the likelihood and intensity of disease outbreaks in specific regions.
 
-## Features
+---
 
-- **Data Preprocessing**: Handle missing values, normalize data, and engineer features relevant to disease outbreaks.
-- **Exploratory Data Analysis (EDA)**: Visualize trends, correlations, and spatial distributions.
-- **Machine Learning Models**: Implement various models including Random Forest, Gradient Boosting, Neural Networks, and more.
-- **Evaluation Metrics**: Assess model performance using metrics like accuracy, precision, recall, F1-score, and AUC-ROC.
-- **Prediction Visualization**: Display predictions on maps and charts for intuitive understanding.
+## 🎥 Demo: Disease Prediction Web App
 
-## Table of Contents
+Watch the demo of the application in action:
 
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Models](#models)
-- [Results](#results)
-- [Contributing](#contributing)
-- [Contact Information](#contact-information)
+[![Disease Prediction Demo](https://img.youtube.com/vi/kKHC6J5olA4/0.jpg)](https://youtu.be/kKHC6J5olA4)
 
-## Getting Started
+---
+
+## ✨ Features
+
+- **Data Preprocessing:** Handle missing values, normalize data, and engineer features relevant to disease outbreaks.
+- **Exploratory Data Analysis (EDA):** Visualize trends, correlations, and spatial distributions.
+- **Machine Learning Models:** Implement various models including Random Forest, Gradient Boosting, Neural Networks, and more.
+- **Evaluation Metrics:** Assess model performance using accuracy, precision, recall, F1-score, and AUC-ROC.
+- **Prediction Visualization:** Display predictions on maps and charts for intuitive understanding.
+
+---
+
+## 📚 Table of Contents
+
+- [Getting Started](#getting-started)  
+- [Prerequisites](#prerequisites)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Dataset](#dataset)  
+- [Models](#models)  
+- [Results](#results)  
+- [Contributing](#contributing)  
+- [Contact Information](#contact-information)  
+
+---
+
+## 🚀 Getting Started
 
 Follow the instructions below to set up the project and run the models on your system.
 
-### Prerequisites
+---
+
+## 📦 Prerequisites
 
 - Python 3.8+
 - pip package manager
 
-### Installation
+---
 
-1. Clone the repository:
+## 🛠️ Installation
 
-   ```bash
-   git clone https://github.com/your-username/disease-outbreak-prediction.git
-   cd disease-outbreak-prediction
+Clone the repository:
+
+```bash
+git clone https://github.com/Janviswa/Disease-outbreak-prediction-using-Machine-Learning.git
+cd Disease-outbreak-prediction-using-Machine-Learning
    ```
 
 2. Create a virtual environment:
