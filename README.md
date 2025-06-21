@@ -157,4 +157,6 @@ Contributions are welcome! To contribute:
 
 ## Contact Information
 
-For questions, feedback, or contributions, please contact Janani at jananiviswa05@gmail.com.
+For questions, feedback, or contributions, please contact 
+📧 Email: jananiviswa05@gmail.com
+🔗 LinkedIn: linkedin.com/in/janani-v
